@@ -1,2 +1,2 @@
 # monkstudy
-Sistema educacional Monkstudy
+Monkstudy - online education system
